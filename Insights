@@ -1,5 +1,56 @@
-North Indian cuisine dominates the market
-Most restaurants are budget-friendly
-Online delivery is still growing
-Higher price restaurants focus on service quality
+Insights 
+Removed extra spaces and handled missing values﻿
+Converted text like Yes/No into numeric values (1 and 0)﻿
+Converted numeric columns properly﻿
+Removed duplicate restaurant IDs﻿
+Ignored invalid ratings (like 0)﻿
+
+Top Cuisines﻿
+North Indian → 41.46%﻿
+Chinese → 28.61%﻿
+Fast Food → 20.79%﻿
+
+Highest restaurants: New Delhi (5473)﻿
+Average rating in New Delhi: 3.29﻿
+ Insight:﻿
+“Even though New Delhi has the most restaurants, the average rating is moderate, meaning high competition.”﻿
+
+Best (overall): Inner City (small data)﻿
+Best reliable: London (4.53 avg rating)﻿
+ Insight:﻿
+“Cities with fewer but quality restaurants tend to have higher ratings.”﻿
+
+Price range 1 → 46.5%﻿
+Price range 2 → 32.6%﻿
+ Insight:﻿
+“Most restaurants are budget-friendly, targeting middle-class customers.”﻿
+
+Only 25.66% restaurants offer delivery﻿
+ Insight:﻿
+“Online delivery is still not adopted by many restaurants.”﻿
+
+Without delivery → 3.46﻿
+With delivery → 3.38﻿
+ Insight:﻿
+“Restaurants without delivery have slightly better ratings, possibly due to better dine-in experience.”﻿
+
+Votes & Popularity﻿
+Highest votes: Toit (Bangalore) → 10934 votes﻿
+Correlation (Votes vs Rating): 0.409﻿
+ Insight:﻿
+“More popular restaurants generally have better ratings, but the relationship is moderate.”﻿
+
+Services vs Price﻿
+High-price restaurants:﻿
+More table booking (~46%)﻿
+Low-price restaurants:﻿
+More online delivery﻿
+ Insight:﻿
+“Luxury restaurants focus on experience (table booking), while budget ones focus on convenience (delivery).”﻿
+
+North Indian cuisine dominates the market﻿
+Most restaurants are budget-friendly﻿
+Online delivery is still growing﻿
+Higher price restaurants focus on service quality﻿
 Ratings are influenced by popularity and city
+
